@@ -1,0 +1,18 @@
+{
+    "cSpell.enabled": true,
+    "cSpell.language": "en",
+    "cSpell.ignoreWords": [
+        "antiforgery",
+        "appsettings",
+        "Blazor",
+        "localdb",
+        "mediat",
+        "SSPI",
+        "Testcontainers",
+        "Xunit"
+    ],
+    "editor.trimAutoWhitespace": true,
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
+}

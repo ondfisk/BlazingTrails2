@@ -1,0 +1,6 @@
+@host = http://localhost:5062
+
+GET {{host}}/api/v1/trails
+Accept: application/json
+
+###
